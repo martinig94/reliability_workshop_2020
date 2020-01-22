@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
+title: About the reliability challenge
+author: Árpád Rózsás and Arthut Slobbe
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---

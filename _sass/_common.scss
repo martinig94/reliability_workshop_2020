@@ -23,9 +23,13 @@ body {
   justify-content: center;
 }
 
-ol,
-ul {
+ul{
   list-style-type: circle;
+  margin: 0px;
+}
+
+ol{
+  list-style-type: lower-roman;
   margin: 0px;
 }
 

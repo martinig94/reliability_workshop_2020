@@ -50,11 +50,23 @@ hero:
 
 # About Section
 topic-title: Topic
-blurb:
-  The Department of Structural Reliability at TNO (Netherlands Organization for Applied Scientific Research) is organizing a workshop on the computational challenges and aspects in the reliability analysis of engineering structures. The particular focus of the workshop is reliability problems that are <span>&#58;</span> 
-blurb2:
-  The aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving these challenges. The application area is intentionally broad, we expect practitioners and researchers from all branches of engineering who face the outlined challenges, e.g. civil, mechanical, aerospace, industrial, and mechatronics engineers.
-
+blurb: <p class="font-secondary paragraph-lg text-dark">
+         The Department of Structural Reliability at TNO (Netherlands Organization for Applied Scientific Research)
+         is organizing a workshop on the computational challenges and aspects in the reliability analysis of engineering structures.
+         The particular focus of the workshop is reliability problems that are <span>&#58;</span> 
+       </p>
+      <ol type="i">
+        <li>high-dimensional (>40)</li>
+        <li>have multiple failure modes</li>
+        <li>and have small failure probabilities (10<sup>-3</sup>–10<sup>-6</sup>)</li>
+      </ol>
+      <br>
+      <p class="font-secondary paragraph-lg text-dark">
+         The aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world
+          to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving
+          these challenges. The application area is intentionally broad, we expect practitioners and researchers from all branches of engineering who face the outlined challenges, e.g. civil, mechanical, aerospace, industrial, and mechatronics engineers.
+      </p>
+  
 
 
 blurb-btn-link: '/about'
@@ -97,7 +109,37 @@ blurb-btn-name: know more
 # Registration Section
 
 registration-title: Register for the workshop!
+registration: <p class="font-secondary paragraph-lg text-dark"> It is possible to register only to the second day of the workshop (sorry!) <br>
+              The first day is reserved to the parctecipants of the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">reliability challenge</a>.</p>
 
+
+#-------------------------------
+# Location Section
+
+location-title: How to get there?
+
+location: <p class="font-secondary-bold paragraph-lg text-dark">Location <span>&#58;</span></p>
+        <p class="font-secondary paragraph-lg text-dark">The workshop will be held at the Business Centre Delftech, Delftechpark 29,
+         2628 Delft, which is right next to the campus of TU Delft.</p>
+        <p class="font-secondary-bold paragraph-lg text-dark">By car <span>&#58;</span></p>
+        <p class="font-secondary paragraph-lg text-dark">The TU Delft campus is easily accessible by car via the A13, exit
+         Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" class="btn-transparent">Google Maps</a>.
+         Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" class="btn-transparent">this map</a>.</p>
+        <p class="font-secondary-bold paragraph-lg text-dark">By public transport <span>&#58;</span></p>
+        <p class="font-secondary paragraph-lg text-dark">If you come by public transport it is recommended to travel by train
+         to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take the bus towards the TU Campus.</p>
+        <ul type="i" class="font-secondary paragraph-lg text-dark">
+          <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From here it is an eight-minute walk to the location of the workshop.</li>
+        </ul>
+        <br>
+        <p class="font-secondary paragraph-lg text-dark"> Plan your trip with the <a href="https://9292.nl/en" class="btn-transparent">traveling assistant</a>.</p>
+
+#-------------------------------
+# Agenda Section
+
+agenda-title: Agenda
+agenda: <p class="font-secondary paragraph-lg text-dark">9<span>&#58;</span>00 Opening of the workshop. <br>
+         14<span>&#58;</span>00 end of the workshop </p>
 
 
 #-------------------------------

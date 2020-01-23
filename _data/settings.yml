@@ -37,6 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   hero-title: Workshop <span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
+  hero-title2: February 24-25, 2020 <br> Delft, The Netherlands
 
 # social:
 # - {icon: "ti-facebook", link: "#"}

@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Topic
-author: Árpád Rózsás and Arthut Slobbe
+author: Árpád Rózsás and Arthur Slobbe
 image: assets/images/about/placeholder.png
 signature: assets/images/about/signature.png
 ---

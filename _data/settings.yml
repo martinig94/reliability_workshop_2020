@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Reliability challenge workshop
-logo: logo_white_bg.png
+logo: logo_white_bg.svg
 email: arpad.rozsas@tno.nl <br> arthur.slobbe@tno.nl
 phone: +31 6 15138029
 address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
@@ -33,7 +33,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 2<sup>nd</sup> Workshop <span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
+  hero-title: 2<sup>nd</sup> Workshop<span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
   hero-title2: February 24-25, 2020 <br> Delft, The Netherlands
 
 #-------------------------------

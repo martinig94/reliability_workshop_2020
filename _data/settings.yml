@@ -57,7 +57,7 @@ blurb:  <p class="font-secondary paragraph-lg text-dark">
           It is also the second workshop on the <i>Computational Challenges in the Reliability Analysis of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
         <p class="font-secondary paragraph-lg text-dark">
-          The workshop will focus on
+          The workshop will focus on<span>&#58;</span>
         </p>
         <ul>
           <li>Presenting  and discussing the results of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.</li>
@@ -135,8 +135,8 @@ registration: <p class="font-secondary-bold paragraph-lg text-dark">
                 Registration and participation are free! 
               </p>
               <p class="font-secondary paragraph-lg text-dark"> 
-                Use the form below to register for the second day of the workshop (25th of February). <br>
-                The first day (24th of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>. If you are participants and/or contributors, and haven't received an invitation then please contact us.
+                Use the form below to register for the second day of the workshop (25<sup>th</sup> of February). <br>
+                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>. If you are a participant and/or a contributor, and haven't received an invitation then please contact us.
               </p>
 
 
@@ -172,7 +172,7 @@ location: <p class="font-secondary paragraph-lg text-dark">
 
 agenda-title: Agenda
 agenda: <p class="font-secondary-bold paragraph-lg text-dark">
-          Day 1 (24th of February, Monday)
+          Day 1 (24<sup>th</sup> of February, Monday)
         </p>
         <p class="font-secondary paragraph-lg text-dark">
           A small group session for those who were contributing to and/or participating in the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
@@ -185,7 +185,7 @@ agenda: <p class="font-secondary-bold paragraph-lg text-dark">
 
         <hr>
         <p class="font-secondary-bold paragraph-lg text-dark">
-          Day 2 (25th of February, Tuesday)
+          Day 2 (25<sup>th</sup> of February, Tuesday)
         </p>
         <p class="font-secondary paragraph-lg text-dark">
           A larger group session for anyone who is interested. Presenting the aggregated results and the solutions of the participants. Additional presentations are also welcome (limited only by the available time). Please indicate you interest in giving a presentation in the registration form and we will contact you.

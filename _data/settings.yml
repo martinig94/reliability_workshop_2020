@@ -44,7 +44,7 @@ topic-title: Topic
  
 blurb:  <p class="font-secondary paragraph-lg text-dark">
           The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
-          It is also the second workshop on the <i>Computational Challenges in the Reliability Analysis of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
+          It is also the second workshop on the <i>Computational Challenges in the Reliability Assessment of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
         <p class="font-secondary paragraph-lg text-dark">
           The workshop will focus on<span>&#58;</span>
@@ -54,6 +54,7 @@ blurb:  <p class="font-secondary paragraph-lg text-dark">
           <li>Disclosing and discussing the solutions and algorithms.</li>
           <li>Discussing the possible improvements and further steps in benchmarking.</li>
           <li>Discussing general computational challenges in reliability analysis.</li>
+          <li>Discussing the dissemination of the results.</li>
         </ul>
         <br>
         <p class="font-secondary paragraph-lg text-dark">

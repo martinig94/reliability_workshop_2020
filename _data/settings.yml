@@ -33,8 +33,9 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 2<sup>nd</sup> Workshop<span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
-  hero-title2: February 24-25, 2020 <br> Delft, The Netherlands
+  organizer_title: Organized and hosted by
+  main_title: 2<sup>nd</sup> Workshop<span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
+  date_title: February 24-25, 2020 <br> Delft, The Netherlands
 
 #-------------------------------
 # About (Section and Page)

@@ -19,7 +19,8 @@
     .nav-link{
       font-family: $tertiary-font;
       text-transform: uppercase;
-      padding: 15px;
+      margin: 0px !important;
+	    padding: 0px !important;
     }
     &.active{
       font-weight: bold;

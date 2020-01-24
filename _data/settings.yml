@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Reliability challenge workshop
-logo: logo_white_bg.png
+logo: logo_white_bg.svg
 email: arpad.rozsas@tno.nl <br> arthur.slobbe@tno.nl
 phone: +31 6 15138029
 address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
@@ -22,19 +22,13 @@ address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 
 google-analytics: UA-156875858-1
 
-
-#-------------------------------
-# Comment Section (Disqus)
-
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
-
-
 #-------------------------------
 # Hero Section
 
 hero:
-  hero-title: 2<sup>nd</sup> Workshop <span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
-  hero-title2: February 24-25, 2020 <br> Delft, The Netherlands
+  organizer_title: Organized and hosted by
+  main_title: 2<sup>nd</sup> Workshop<span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
+  date_title: February 24-25, 2020 <br> Delft, The Netherlands
 
 #-------------------------------
 # About (Section and Page)
@@ -44,7 +38,7 @@ topic-title: Topic
  
 blurb:  <p class="font-secondary paragraph-lg text-dark">
           The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
-          It is also the second workshop on the <i>Computational Challenges in the Reliability Analysis of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
+          It is also the second workshop on the <i>Computational Challenges in the Reliability Assessment of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
         <p class="font-secondary paragraph-lg text-dark">
           The workshop will focus on<span>&#58;</span>
@@ -54,6 +48,7 @@ blurb:  <p class="font-secondary paragraph-lg text-dark">
           <li>Disclosing and discussing the solutions and algorithms.</li>
           <li>Discussing the possible improvements and further steps in benchmarking.</li>
           <li>Discussing general computational challenges in reliability analysis.</li>
+          <li>Discussing the dissemination of the results.</li>
         </ul>
         <br>
         <p class="font-secondary paragraph-lg text-dark">
@@ -83,39 +78,6 @@ blurb:  <p class="font-secondary paragraph-lg text-dark">
 
 blurb-btn-link: 'about.html'
 blurb-btn-name: know more
-
-
-# About Page
-
-# # Work Process Section
-# work-process:
-#   - title : "Research and Plan"
-#     icon : "assets/images/icons/plan.png"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-#   - title : "Design and Develop"
-#     icon : "assets/images/icons/design.png"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-#   - title : "Deliver"
-#     icon : "assets/images/icons/print.png"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
-# # My Team Section
-# team:
-#   - title : "Jack Schenziwe"
-#     image : "assets/images/team/member-1.png"
-#     designation : "Project Manager"
-    
-#   - title : "Julias Carlie"
-#     image : "assets/images/team/member-2.png"
-#     designation : "Web Developer"
-    
-#   - title : "John Doe"
-#     image : "assets/images/team/member-3.png"
-#     designation : "Designer"
-
 
 #-------------------------------
 # Registration Section
@@ -189,207 +151,6 @@ agenda: <p class="font-secondary-bold paragraph-lg text-dark">
             The agenda of both days will be updated soon and published here.
         </p>
 
-
-#-------------------------------
-
-#-------------------------------
-# Skills Section
-
-# skills-title: Skills
-# skills:
-# - {name: Web Design, color: '#fdb157', value: '90%'}
-# - {name: Logo Design, color: '#9473e6', value: '60%'}
-# - {name: After Effects, color: '#bdecf6', value: '80%'}
-# - {name: Web App, color: '#ffbcaa', value: '70%'}
-
-
-#-------------------------------
-# Exprerience Section
-
-# experience-title: Experience
-# experience:
-# - {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-# - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-# - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
-
-
-#-------------------------------
-# Education Section
-
-# education-title: Education
-# education:
-# - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-# - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-# - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-# - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
-
-
-#-------------------------------
-# Services Section
-
-# services-title: Services
-# services:
-# - {
-#     name: UI Design,
-#     icon: ti-palette,
-#     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-#     active: # Add true to select section
-#   }
-# - {
-#     name: UX Design,
-#     icon: ti-vector,
-#     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-#     active: true # Add true to select section
-#   }
-# - {
-#     name: Interaction Design,
-#     icon: ti-panel,
-#     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-#     active: # Add true to select section
-#   }
-
-
-
-#-------------------------------
-# Portfolio (Section and Page)
-
-# Portfolio Home Section
-# portfolio-home-items:
-#   - image : "assets/images/portfolio/item-1.png"
-#     url: "#"
-    
-#   - image : "assets/images/portfolio/item-2.png"
-#     url: "#"
-    
-#   - image : "assets/images/portfolio/item-3.png"
-#     url: "#"
-    
-#   - image : "assets/images/portfolio/item-4.png"
-#     url: "#"
-    
-#   - image : "assets/images/portfolio/item-5.png"
-#     url: "#"
-
-
-# Portfolio Page
-# portfolio-label:
-# - {
-#     title : "UI/UX Design",
-#     type : "design"
-#   }
-# - {
-#     title : "BRANDING",
-#     type : "branding"
-#   }
-# - {
-#     title : "ILLUSTRATION",
-#     type : "illustration"
-#   }
-
-# portfolio-items:
-#   - image : "assets/images/portfolio/item-1.png"
-#     url: "#"
-#     portfolio-type:
-#      - type: "design"
-#      - type: "illustration"
-      
-#   - image : "assets/images/portfolio/item-2.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "branding"
-      
-#   - image : "assets/images/portfolio/item-3.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
-      
-#   - image : "assets/images/portfolio/item-6.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "branding"
-      
-#   - image : "assets/images/portfolio/item-8.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
-      
-#   - image : "assets/images/portfolio/item-5.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-      
-#   - image : "assets/images/portfolio/item-1.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "branding"
-      
-#   - image : "assets/images/portfolio/item-3.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "illustration"
-#       - type: "branding"
-      
-#   - image : "assets/images/portfolio/item-7.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
-
-
-#-------------------------------
-# Testimonials Section
-
-# testimonial-items:
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation : "CEO, Funder"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation: "CEO, Funder"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation: "CEO, Funder"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-
-#-------------------------------
-# Client Slider Section
-
-# client-slider-items:
-#   - logo: "assets/images/clients-logo/client-logo-1.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-2.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-3.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-4.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-5.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-1.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-2.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-3.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-4.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-5.png"
-#     url: "#"
 
 #-------------------------------
 # Contact Section

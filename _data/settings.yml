@@ -8,7 +8,7 @@ phone: +31 6 16340912
 address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 
 menu:
-- {name: Topic, link: '/about/'}
+- {name: Topic, link: 'about.html'}
 - {name: Registration, link: '/registration/'}
 # - {name: Blog, link: '/blog/'}
 # - {name: Portfolio, link: '/portfolio/'}
@@ -70,7 +70,7 @@ blurb: <p class="font-secondary paragraph-lg text-dark">
   
 
 
-blurb-btn-link: '/about'
+blurb-btn-link: 'about.html'
 blurb-btn-name: know more
 
 

@@ -128,7 +128,7 @@ location: <p class="font-secondary paragraph-lg text-dark">
             The workshop will take place in Delft, The Netherlands. The final venue is to be confirmed but it surely will be close to the TU Delft Campus.
           </p>
           <p class="font-secondary-bold paragraph-lg text-dark"> 
-            <b>The address and a how-to-get-there guide will be published here.</b>
+            The address and a how-to-get-there guide will be published here.
           </p>
 # location: <p class="font-secondary-bold paragraph-lg text-dark">Location <span>&#58;</span></p>
 #         <p class="font-secondary paragraph-lg text-dark">The workshop will be held at the Business Centre Delftech, Delftechpark 29,
@@ -150,8 +150,33 @@ location: <p class="font-secondary paragraph-lg text-dark">
 # Agenda Section
 
 agenda-title: Agenda
-agenda: <p class="font-secondary paragraph-lg text-dark">9<span>&#58;</span>00 Opening of the workshop. <br>
-         14<span>&#58;</span>00 end of the workshop </p>
+agenda: <p class="font-secondary-bold paragraph-lg text-dark">
+          Day 1 (24th of February, Monday)
+        </p>
+        <p class="font-secondary paragraph-lg text-dark">
+          A small group session for those who were contributing to and/or participating in the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+        </p>
+        <p class="font-secondary paragraph-lg text-dark">
+          12<span>&#58;</span>00 Opening. <br>
+          17<span>&#58;</span>00 Closure.
+        </p>
+        <br>
+
+        <hr>
+        <p class="font-secondary-bold paragraph-lg text-dark">
+          Day 2 (25th of February, Tuesday)
+        </p>
+        <p class="font-secondary paragraph-lg text-dark">
+          A larger group session for anyone who is interested. Presenting the aggregated results and the solutions of the participants. Additional presentations are also welcome (limited only by the available time). Please indicate you interest in giving a presentation in the registration form and we will contact you.
+        </p>
+        <p class="font-secondary paragraph-lg text-dark">
+          9<span>&#58;</span>00 Opening. <br>
+          17<span>&#58;</span>00 Closure.
+        </p>
+
+        <p class="font-secondary-bold paragraph-lg text-dark"> 
+            The agenda of both days will be updated soon and published here.
+        </p>
 
 
 #-------------------------------

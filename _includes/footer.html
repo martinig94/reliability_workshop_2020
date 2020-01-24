@@ -19,10 +19,15 @@
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyright ©<script>
-        var CurrentYear = new Date().getFullYear()
-        document.write(CurrentYear)
-      </script> a theme by <a href="https://themefisher.com/">themefisher.com</a></p>
+    <p class="mb-0 text-light">Last update: <script>
+      var today = new Date();
+      var dd = String(today.getDate()).padStart(2, '0');
+      var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+      var yyyy = today.getFullYear();
+
+      today = dd + '/' + mm + '/' + yyyy;
+      document.write(today) </script>
+    </p>
   </div>
 </footer>
 <!-- /footer -->

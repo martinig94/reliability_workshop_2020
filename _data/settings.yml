@@ -110,8 +110,9 @@ blurb-btn-name: know more
 # Registration Section
 
 registration-title: Register for the workshop!
-registration: <p class="font-secondary paragraph-lg text-dark"> It is possible to register only to the second day of the workshop (sorry!) <br>
-              The first day is reserved to the parctecipants of the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">reliability challenge</a>.</p>
+registration: <p class="font-secondary paragraph-lg text-dark"> <b>Registration and participation are free! </b> </p>
+              <p class="font-secondary paragraph-lg text-dark"> Use the form below to register for the second day of the workshop (25th of February). <br>
+              The first day (24th of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">Black-box Reliability Challenge 2019</a>. If you are participants and/or contributors, and haven't received an invitation then please contact us.</p>
 
 
 #-------------------------------

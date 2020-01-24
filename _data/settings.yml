@@ -4,12 +4,12 @@
 title: Reliability challenge workshop
 logo: logo_white_bg.png
 email: arpad.rozsas@tno.nl <br> arthur.slobbe@tno.nl
-phone: +31 6 16340912
+phone: +31 6 15138029
 address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 
-menu:
-- {name: Topic, link: 'about.html'}
-- {name: Registration, link: '/registration/'}
+# menu:
+# - {name: Topic, link: 'about.html'}
+# - {name: Registration, link: '/registration/'}
 # - {name: Blog, link: '/blog/'}
 # - {name: Portfolio, link: '/portfolio/'}
 # - {name: Contact, link: '/contact/'}
@@ -53,7 +53,7 @@ hero:
 topic-title: Topic
  
 blurb:  <p class="font-secondary paragraph-lg text-dark">
-          The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+          The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
           It is also the second workshop on the <i>Computational Challenges in the Reliability Analysis of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
         <p class="font-secondary paragraph-lg text-dark">

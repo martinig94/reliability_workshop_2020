@@ -83,7 +83,7 @@ blurb-btn-name: know more
 # Registration Section
 
 registration-title: Register for the workshop!
-registration: <p class="font-secondary-bold paragraph-lg text-dark">
+registration: <p class="font-secondary-bold paragraph-lg mb-0 text-dark">
                 Registration and participation are free! 
               </p>
               <p class="font-secondary paragraph-lg text-dark"> 
@@ -135,7 +135,6 @@ agenda: <p class="font-secondary-bold paragraph-lg text-dark">
         </p>
         <br>
 
-        <hr>
         <p class="font-secondary-bold paragraph-lg text-dark">
           Day 2 (25<sup>th</sup> of February, Tuesday)
         </p>

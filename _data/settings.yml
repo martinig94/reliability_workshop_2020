@@ -51,22 +51,43 @@ hero:
 
 # About Section
 topic-title: Topic
-blurb: <p class="font-secondary paragraph-lg text-dark">
-         The Department of Structural Reliability at TNO (Netherlands Organization for Applied Scientific Research)
-         is organizing a workshop on the computational challenges and aspects in the reliability analysis of engineering structures.
-         The particular focus of the workshop is reliability problems that are <span>&#58;</span> 
-       </p>
-      <ol type="i">
-        <li>high-dimensional (>40)</li>
-        <li>have multiple failure modes</li>
-        <li>and have small failure probabilities (10<sup>-3</sup>–10<sup>-6</sup>)</li>
-      </ol>
-      <br>
-      <p class="font-secondary paragraph-lg text-dark">
-         The aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world
+ 
+blurb:  <p class="font-secondary paragraph-lg text-dark">
+          The Department of Structural Reliability at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+          It is also the second workshop on the <i>Computational Challenges in the Reliability Analysis of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" class="btn-transparent">first one</a> was held in Delft in 2018.
+        </p>
+        <p class="font-secondary paragraph-lg text-dark">
+          The workshop will focus on
+        </p>
+        <ul>
+          <li>Presenting  and discussing the results of the <a href="https://rprepo.readthedocs.io/en/latest/" class="btn-transparent">Black-box Reliability Challenge 2019</a>.</li>
+          <li>Disclosing and discussing the solutions and algorithms.</li>
+          <li>Discussing the possible improvements and further steps in benchmarking.</li>
+          <li>Discussing general computational challenges in reliability analysis.</li>
+        </ul>
+        <br>
+        <p class="font-secondary paragraph-lg text-dark">
+          The general aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world
           to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving
-          these challenges. The application area is intentionally broad, we expect practitioners and researchers from all branches of engineering who face the outlined challenges, e.g. civil, mechanical, aerospace, industrial, and mechatronics engineers.
-      </p>
+          these challenges.
+        </p>
+  
+  # <p class="font-secondary paragraph-lg text-dark">
+  #        The Department of Structural Reliability at TNO (Netherlands Organization for Applied Scientific Research)
+  #        is organizing a workshop on the computational challenges and aspects in the reliability analysis of engineering structures.
+  #        The particular focus of the workshop is reliability problems that are <span>&#58;</span> 
+  #      </p>
+  #     <ol type="i">
+  #       <li>high-dimensional (>40)</li>
+  #       <li>have multiple failure modes</li>
+  #       <li>and have small failure probabilities (10<sup>-3</sup>–10<sup>-6</sup>)</li>
+  #     </ol>
+  #     <br>
+  #     <p class="font-secondary paragraph-lg text-dark">
+  #        The aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world
+  #         to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving
+  #         these challenges. The application area is intentionally broad, we expect practitioners and researchers from all branches of engineering who face the outlined challenges, e.g. civil, mechanical, aerospace, industrial, and mechatronics engineers.
+  #     </p>
   
 
 

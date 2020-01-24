@@ -9,10 +9,7 @@ address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 
 # menu:
 # - {name: Topic, link: 'about.html'}
-# - {name: Registration, link: '/registration/'}
-# - {name: Blog, link: '/blog/'}
-# - {name: Portfolio, link: '/portfolio/'}
-# - {name: Contact, link: '/contact/'}
+# - {name: Registration, link: 'registration.html'}
 
 
 #-------------------------------
@@ -36,15 +33,8 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Workshop <span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
+  hero-title: 2<sup>nd</sup> Workshop <span>&#58;</span> Computational challenges in the reliability assessment of engineering structures
   hero-title2: February 24-25, 2020 <br> Delft, The Netherlands
-
-# social:
-# - {icon: "ti-facebook", link: "#"}
-# - {icon: "ti-instagram", link: "#"}
-# - {icon: "ti-dribbble", link: "#"}
-# - {icon: "ti-twitter", link: "#"}
-
 
 #-------------------------------
 # About (Section and Page)

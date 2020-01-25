@@ -6,3 +6,6 @@ _site
 
 code/figures/*
 code/figures/.gitkeep
+
+*.RData
+*.Rhistory

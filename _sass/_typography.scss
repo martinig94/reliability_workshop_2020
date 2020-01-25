@@ -10,20 +10,21 @@
 
 body {
   line-height: 1.2;
+  font-weight: 400;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 22px;
   color: $text-color;
 }
 
 p, .paragraph {
   font-weight: 400;
   color: $text-color;
-  font-size: 15px;
+  font-size: 22px;
   line-height: 1.8;
   font-family: $primary-font;
-  &-lg{
-    font-size: 22px;
+  &-sm{
+    font-size: 15px;
   }
 }
 

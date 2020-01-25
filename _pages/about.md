@@ -9,7 +9,7 @@ signature: assets/images/about/signature.png
 <p class="col-lg-10 mx-auto text-left text-dark">
 	With the advancements in probability theory and structural reliability, combined with the increase in computational power, it is now possible to conduct probabilistic analysis of engineering models. However, it is still challenging to perform reliability analysis on complex, realistic engineering applications; for example when non-linear finite element analysis is involved.</p>
 <p class="col-lg-10 mx-auto text-left text-dark">
-	The reason is that one of the main tasks in reliability analysis is to compute high-dimensional integrals in order to determine the failure probability. This is challenging, because (i) the curse of dimensionality; and (ii) typically we are interested in estimating small probabilities (1e-3–1e-6).</p>
+	The reason is that one of the main tasks in reliability analysis is to compute high-dimensional integrals in order to determine the failure probability. This is challenging, because (i) the curse of dimensionality; and (ii) typically we are interested in estimating small probabilities <nobr>(10<sup>-3</sup>–10<sup>-6</sup>)</nobr>.</p>
 <p class="col-lg-10 mx-auto text-left text-dark">
 	Efficient methods are available to compute failure probabilities if only a single failure mode (SFM) is involved and the number of random variables (≡ dimension of the integral) is moderate (<20). However, problems with multiple failure modes are abundant in practice. For these, many of the efficient methods, which excel in SFM problems, break down and one is often compelled to fall back to more general, but at the same time computationally more demanding methods.</p>
 <p class="col-lg-10 mx-auto text-left text-dark">

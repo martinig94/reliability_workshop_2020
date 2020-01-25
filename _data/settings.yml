@@ -7,8 +7,8 @@ email: arpad.rozsas@tno.nl <br> arthur.slobbe@tno.nl
 phone: +31 6 15138029
 address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 
-# menu:
-# - {name: Topic, link: 'about.html'}
+menu:
+- {name: Topic, link: 'about.html'}
 # - {name: Registration, link: 'registration.html'}
 
 
@@ -36,14 +36,14 @@ hero:
 # About Section
 topic-title: Topic
  
-blurb:  <p class="font-secondary paragraph-lg text-dark">
+blurb:  <p class="paragraph-lg">
           The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
           It is also the second workshop on the <i>Computational Challenges in the Reliability Assessment of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
-        <p class="font-secondary paragraph-lg text-dark">
+        <p class="paragraph-lg">
           The workshop will focus on<span>&#58;</span>
         </p>
-        <ul>
+        <ul class="paragraph-lg">
           <li>Presenting  and discussing the results of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.</li>
           <li>Disclosing and discussing the solutions and algorithms.</li>
           <li>Discussing the possible improvements and further steps in benchmarking.</li>
@@ -51,7 +51,7 @@ blurb:  <p class="font-secondary paragraph-lg text-dark">
           <li>Discussing the dissemination of the results.</li>
         </ul>
         <br>
-        <p class="font-secondary paragraph-lg text-dark">
+        <p class="paragraph-lg">
           The general aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world
           to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving
           these challenges.

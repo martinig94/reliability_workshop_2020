@@ -36,7 +36,7 @@ hero:
 # About Section
 topic-title: Topic
  
-blurb:  <p class="text-dark">
+topic-section:  <p class="text-dark">
           The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
           It is also the second workshop on the <i>Computational Challenges in the Reliability Assessment of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
@@ -56,6 +56,10 @@ blurb:  <p class="text-dark">
           to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving
           these challenges.
         </p>
+
+        <div class="col-lg-6 col-10 mx-auto">
+          <a href="about.html" class="btn btn-primary w-100" role="button">Know more</a>
+        </div>
   
   # <p class=" text-dark">
   #        The Department of Structural Reliability at TNO (Netherlands Organization for Applied Scientific Research)
@@ -74,10 +78,6 @@ blurb:  <p class="text-dark">
   #         these challenges. The application area is intentionally broad, we expect practitioners and researchers from all branches of engineering who face the outlined challenges, e.g. civil, mechanical, aerospace, industrial, and mechatronics engineers.
   #     </p>
   
-
-
-blurb-btn-link: 'about.html'
-blurb-btn-name: know more
 
 #-------------------------------
 # Registration Section

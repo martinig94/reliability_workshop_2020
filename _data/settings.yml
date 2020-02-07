@@ -83,49 +83,65 @@ blurb-btn-name: know more
 # Registration Section
 
 registration-title: Register for the workshop!
-registration: <p class="font-secondary-bold mb-0 text-dark">
+registration-section: <p class="font-secondary-bold mb-0 text-dark">
                 Registration and participation are free! 
               </p>
               <p class="text-dark"> 
-                Use the form below to register for the second day of the workshop (25th of February). <br>
-                The first day (24th of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+                Click on the Register button below to register for the second day of the workshop (25<sup>th</sup> of February).
+                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
                 If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
               </p>
 
+              <div class="col-lg-6 col-10 mx-auto">
+                <a href="registration.html" class="btn btn-primary w-100" role="button">Register</a>
+              </div>
 
+registration-page: <p class="font-secondary-bold mb-0 text-dark">
+                Registration and participation are free! 
+              </p>
+              <p class="text-dark"> 
+                Use the form below to register for the second day of the workshop (25<sup>th</sup> of February).
+                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+                If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
+              </p>
 #-------------------------------
 # Location Section
 
 location-title: How to get there?
 
-location: <p class="font-secondary text-dark">
-            The workshop will take place in Delft, The Netherlands. The final venue is to be confirmed but it surely will be close to the TU Delft Campus.
+location: <p class="font-secondary-bold text-dark">
+            Location</span>
           </p>
-          <p class="font-secondary-bold text-dark"> 
-            The address and a how-to-get-there guide will be published here.
+          <p class="text-dark">
+            The workshop will be held in the <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">TNO building at Stieltjesweg 1, 2628 CK Delft</a> that is on the TU Delft Campus.
           </p>
-# location: <p class="font-secondary-bold text-dark">Location <span>&#58;</span></p>
-#         <p class="text-dark">The workshop will be held at the Business Centre Delftech, Delftechpark 29,
-#          2628 Delft, which is right next to the campus of TU Delft.</p>
-#         <p class="font-secondary-bold text-dark">By car <span>&#58;</span></p>
-#         <p class="text-dark">The TU Delft campus is easily accessible by car via the A13, exit
-#          Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" target="_blank" class="btn-transparent">Google Maps</a>.
-#          Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" target="_blank" class="btn-transparent">this map</a>.</p>
-#         <p class="font-secondary-bold text-dark">By public transport <span>&#58;</span></p>
-#         <p class="text-dark">If you come by public transport it is recommended to travel by train
-#          to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take the bus towards the TU Campus.</p>
-#         <ul type="i" class="text-dark">
-#           <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From here it is an eight-minute walk to the location of the workshop.</li>
-#         </ul>
-#         <br>
-#         <p class="text-dark"> Plan your trip with the <a href="https://9292.nl/en" target="_blank" class="btn-transparent">traveling assistant</a>.</p>
+          <p class="font-secondary-bold text-dark">
+            By car</span>
+          </p>
+          <p class="text-dark">
+            The TU Delft Campus is easily accessible by car via the A13, exit Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" target="_blank" class="btn-transparent">Google Maps</a>.
+            Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" target="_blank" class="btn-transparent">this map</a>.
+          </p>
+          <p class="font-secondary-bold text-dark">
+            By public transport</span>
+          </p>
+          <p class="text-dark">
+            If you come by public transport it is recommended to travel by train to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take a bus in the direction of the TU Delft Campus.
+          </p>
+          <ul type="i" class="text-dark">
+            <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From there it is a five-minute walk to the location of the workshop.</li>
+          </ul>
+          <br>
+          <p class="text-dark">
+            Plan your trip with a <a href="https://9292.nl/en" target="_blank" class="btn-transparent">traveling assistant</a>.
+          </p>
 
 #-------------------------------
 # Agenda Section
 
 agenda-title: Agenda
 agenda: <p class="font-secondary-bold text-dark">
-          Day 1 (24<sup>th</sup> of February, Monday)
+          Day 1 (24<sup>th</sup> of February, Monday, <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">Room E075, Stieltjesweg 1, 2628 CK Delft</a>)
         </p>
         <p class="font-secondary text-dark">
           A small group session for those who were contributing to and/or participating in the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
@@ -137,7 +153,7 @@ agenda: <p class="font-secondary-bold text-dark">
         <br>
 
         <p class="font-secondary-bold text-dark">
-          Day 2 (25<sup>th</sup> of February, Tuesday)
+          Day 2 (25<sup>th</sup> of February, Tuesday, <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">Room P01.020, Stieltjesweg 1, 2628 CK Delft</a>)
         </p>
         <p class="font-secondary text-dark">
           A larger group session for anyone who is interested. Presenting the aggregated results and the solutions of the participants. Additional presentations are also welcome (limited only by the available time). Please indicate you interest in giving a presentation in the registration form and we will contact you.

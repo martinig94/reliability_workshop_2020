@@ -10,6 +10,7 @@ address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 menu:
 - {name: Topic, link: 'about.html'}
 - {name: Registration, link: 'registration.html'}
+- {name: Registrants, link: 'registrants.html'}
 
 
 #-------------------------------

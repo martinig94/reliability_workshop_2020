@@ -83,16 +83,27 @@ blurb-btn-name: know more
 # Registration Section
 
 registration-title: Register for the workshop!
-registration: <p class="font-secondary-bold mb-0 text-dark">
+registration-section: <p class="font-secondary-bold mb-0 text-dark">
                 Registration and participation are free! 
               </p>
               <p class="text-dark"> 
-                Use the form below to register for the second day of the workshop (25th of February). <br>
-                The first day (24th of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+                Click on the Register button below to register for the second day of the workshop (25<sup>th</sup> of February).
+                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
                 If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
               </p>
 
+              <div class="col-lg-6 col-10 mx-auto">
+                <a href="registration.html" class="btn btn-primary w-100" role="button">Register</a>
+              </div>
 
+registration-page: <p class="font-secondary-bold mb-0 text-dark">
+                Registration and participation are free! 
+              </p>
+              <p class="text-dark"> 
+                Use the form below to register for the second day of the workshop (25<sup>th</sup> of February).
+                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+                If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
+              </p>
 #-------------------------------
 # Location Section
 

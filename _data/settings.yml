@@ -143,35 +143,7 @@ location: <p class="font-secondary-bold text-dark">
 # Agenda Section
 
 agenda-title: Agenda
-agenda: <p class="font-secondary-bold text-dark">
-          Day 1 (24<sup>th</sup> of February, Monday, <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">Room E075, Stieltjesweg 1, 2628 CK Delft</a>)
-        </p>
-        <p class="font-secondary text-dark">
-          A small group session for those who were contributing to and/or participating in the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
-        </p>
-        <p class="font-secondary text-dark">
-          12<span>&#58;</span>00 Opening. <br>
-          17<span>&#58;</span>00 Closure.
-        </p>
-        <br>
-
-        <p class="font-secondary-bold text-dark">
-          Day 2 (25<sup>th</sup> of February, Tuesday, <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">Room P01.020, Stieltjesweg 1, 2628 CK Delft</a>)
-        </p>
-        <p class="font-secondary text-dark">
-          A larger group session for anyone who is interested. Presenting the aggregated results and the solutions of the participants. Additional presentations are also welcome (limited only by the available time). Please indicate you interest in giving a presentation in the registration form and we will contact you.
-        </p>
-        <p class="font-secondary text-dark">
-          9<span>&#58;</span>00 Opening. <br>
-          17<span>&#58;</span>00 Closure.
-        </p>
-
-        <p class="font-secondary-bold text-dark"> 
-            The agenda of both days will be updated soon and published here.
-        </p>
-        <hr>
-        <hr>
-
+# All content is moved to agenda-section.html to have syntax highlight
 
 #-------------------------------
 # Contact Section

@@ -92,6 +92,10 @@ registration-section: <p class="font-secondary-bold mb-0 text-dark">
                 If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
               </p>
 
+              <p class="text-dark"> 
+                We plan to make it possible to follow and join the workshop online as well (details will be published here later). If you would like to use this option please drop us an email so we will know how many participants to expect.
+              </p>
+
               <div class="col-lg-6 col-10 mx-auto">
                 <a href="registration.html" class="btn btn-primary w-100" role="button">Register</a>
               </div>

@@ -98,27 +98,32 @@ registration: <p class="font-secondary-bold mb-0 text-dark">
 
 location-title: How to get there?
 
-location: <p class="font-secondary text-dark">
-            The workshop will take place in Delft, The Netherlands. The final venue is to be confirmed but it surely will be close to the TU Delft Campus.
+location: <p class="font-secondary-bold text-dark">
+            Location</span>
           </p>
-          <p class="font-secondary-bold text-dark"> 
-            The address and a how-to-get-there guide will be published here.
+          <p class="text-dark">
+            The workshop will be held in the <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">TNO building at Stieltjesweg 1, 2628 CK Delft</a> that is on the TU Delft Campus.
           </p>
-# location: <p class="font-secondary-bold text-dark">Location <span>&#58;</span></p>
-#         <p class="text-dark">The workshop will be held at the Business Centre Delftech, Delftechpark 29,
-#          2628 Delft, which is right next to the campus of TU Delft.</p>
-#         <p class="font-secondary-bold text-dark">By car <span>&#58;</span></p>
-#         <p class="text-dark">The TU Delft campus is easily accessible by car via the A13, exit
-#          Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" target="_blank" class="btn-transparent">Google Maps</a>.
-#          Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" target="_blank" class="btn-transparent">this map</a>.</p>
-#         <p class="font-secondary-bold text-dark">By public transport <span>&#58;</span></p>
-#         <p class="text-dark">If you come by public transport it is recommended to travel by train
-#          to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take the bus towards the TU Campus.</p>
-#         <ul type="i" class="text-dark">
-#           <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From here it is an eight-minute walk to the location of the workshop.</li>
-#         </ul>
-#         <br>
-#         <p class="text-dark"> Plan your trip with the <a href="https://9292.nl/en" target="_blank" class="btn-transparent">traveling assistant</a>.</p>
+          <p class="font-secondary-bold text-dark">
+            By car</span>
+          </p>
+          <p class="text-dark">
+            The TU Delft Campus is easily accessible by car via the A13, exit Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" target="_blank" class="btn-transparent">Google Maps</a>.
+            Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" target="_blank" class="btn-transparent">this map</a>.
+          </p>
+          <p class="font-secondary-bold text-dark">
+            By public transport</span>
+          </p>
+          <p class="text-dark">
+            If you come by public transport it is recommended to travel by train to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take a bus in the direction of the TU Delft Campus.
+          </p>
+          <ul type="i" class="text-dark">
+            <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From there it is a five-minute walk to the location of the workshop.</li>
+          </ul>
+          <br>
+          <p class="text-dark">
+            Plan your trip with a <a href="https://9292.nl/en" target="_blank" class="btn-transparent">traveling assistant</a>.
+          </p>
 
 #-------------------------------
 # Agenda Section

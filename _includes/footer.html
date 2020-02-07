@@ -19,14 +19,15 @@
     </div>
   </div>
   <div class="border-top text-center border-dark py-4">
-    <p class="mb-0 text-light">Last update: <script>
+    <p class="mb-0 text-light"> <script>
       var today = new Date();
       var dd = String(today.getDate()).padStart(2, '0');
       var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
       var yyyy = today.getFullYear();
 
       today = dd + '/' + mm + '/' + yyyy;
-      document.write(today) </script>
+      
+      document.write(yyyy) </script> | <a href="https://www.tno.nl/en/" target="_blank" class="mb-0 text-light" >TNO</a>
     </p>
   </div>
 </footer>

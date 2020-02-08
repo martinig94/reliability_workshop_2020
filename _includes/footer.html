@@ -3,7 +3,7 @@
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 ">
           <h5 class="text-light">Email</h5>
           <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
         </div>
@@ -18,17 +18,25 @@
       </div>
     </div>
   </div>
-  <div class="border-top text-center border-dark py-4">
-    <p class="mb-0 text-light"> <script>
-      var today = new Date();
-      var dd = String(today.getDate()).padStart(2, '0');
-      var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-      var yyyy = today.getFullYear();
-
-      today = dd + '/' + mm + '/' + yyyy;
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 border-top border-dark py-2">
+        <p class="mb-0 text-light text-left"> <script>
+          var today = new Date();
+          var dd = String(today.getDate()).padStart(2, '0');
+          var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+          var yyyy = today.getFullYear();
       
-      document.write(yyyy) </script> | <a href="https://www.tno.nl/en/" target="_blank" class="mb-0 text-light" >TNO</a>
-    </p>
+          today = dd + '/' + mm + '/' + yyyy;
+            
+          document.write(yyyy) </script> | <a href="https://www.tno.nl/en/" target="_blank" class="mb-0 text-light" >TNO</a>
+        </p>
+      </div>
+      <div class="col-lg-6 border-top border-dark py-2">
+        <p class="mb-0 text-light text-right small"> Get and freely reuse the source code of this website from <a href="https://github.com/martinig94/reliability_workshop_2020" target="_blank" class="mb-0 text-white">here</a>.
+        </p>
+      </div>
+    </div>
   </div>
 </footer>
 <!-- /footer -->

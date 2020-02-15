@@ -32,3 +32,6 @@
 .navbar-dark .navbar-nav .nav-link{
   color: $white;
 }
+
+.navbar-nav > li > a {padding-top:3px !important; padding-bottom:3px !important;}
+.navbar {min-height:20px !important}

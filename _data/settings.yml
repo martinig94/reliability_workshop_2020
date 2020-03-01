@@ -9,7 +9,8 @@ address: Stieltjesweg 1, 2628 CK Delft, The Netherlands
 
 menu:
 - {name: Topic, link: 'about.html'}
-- {name: Registration, link: 'registration.html'}
+- {name: Resources, link: 'resources.html'}
+# - {name: Registration, link: 'registration.html'}
 - {name: Registrants, link: 'registrants.html'}
 
 
@@ -37,11 +38,11 @@ hero:
 topic-title: Topic
  
 topic-section:  <p class="text-dark">
-          The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO is organizing a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
-          It is also the second workshop on the <i>Computational Challenges in the Reliability Assessment of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
+          The <a href="https://www.tno.nl/en/focus-areas/buildings-infrastructure-maritime/expertise-groups/structural-reliability/" target="_blank" class="btn-transparent">Department of Structural Reliability</a> at TNO has organized a workshop on the follow-up of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+          It was also the second workshop on the <i>Computational Challenges in the Reliability Assessment of Engineering Structures</i>, the <a href="https://www.reliabilitytno.com/" target="_blank" class="btn-transparent">first one</a> was held in Delft in 2018.
         </p>
         <p class="text-dark">
-          The workshop will focus on<span>&#58;</span>
+          The workshop focused on<span>&#58;</span>
         </p>
         <ul class="text-dark">
           <li>Presenting  and discussing the results of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.</li>
@@ -52,7 +53,7 @@ topic-section:  <p class="text-dark">
         </ul>
         <br>
         <p class="text-dark">
-          The general aim of the workshop is to bring together researchers, practitioners, and software developers from all over the world
+          The general aim of the workshop was to bring together researchers, practitioners, and software developers from all over the world
           to discuss challenges related to this topic, share experience, learn from each other, and to jointly find ways of solving
           these challenges.
         </p>
@@ -80,65 +81,97 @@ topic-section:  <p class="text-dark">
   
 
 #-------------------------------
-# Registration Section
+# Content Section
 
-registration-title: Register for the workshop!
-registration-section: <p class="font-secondary-bold mb-0 text-dark">
-                Registration and participation are free! 
-              </p>
+resources-title:  Resources and outcomes
+resources-section: 
               <p class="text-dark"> 
-                Click on the Register button below to register for the second day of the workshop (25<sup>th</sup> of February).
-                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
-                If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
+                The main outcomes and relevant resources related to the workshop are collected on this website and made publicly available.
+                This includes the presentation slides, code repositories, and summary of conclusions reached during the discussions.
+                <b>The resources and outcomes are being continuously updated.</b>
               </p>
 
-              <p class="text-dark"> 
-                We plan to make it possible to follow and join the workshop online as well (details will be published here later). If you would like to use this option please drop us an email so we will know how many participants to expect.
+              <p class="text-red"> 
+                We are looking for volunteers to organize the next reliability challenge. If you are interested to lead or participate in the organization,
+                have suggestions on how to improve and extend the challenge, and/or would like to donate reliability problems, please contact us.
               </p>
 
               <div class="col-lg-6 col-10 mx-auto">
-                <a href="registration.html" class="btn btn-primary w-100" role="button">Register</a>
+                <a href="resources.html" class="btn btn-primary w-100" role="button">View resources</a>
               </div>
 
-registration-page: <p class="font-secondary-bold mb-0 text-dark">
-                Registration and participation are free! 
+resources-page: <p class="text-dark"> 
+                The main outcomes and relevant resources related to the workshop are collected on this website and made publicly available.
+                This includes the presentation slides, code repositories, and summary of conclusions reached during the discussions.
+                <b>The resources and outcomes are being continuously updated.</b>
               </p>
-              <p class="text-dark"> 
-                Use the form below to register for the second day of the workshop (25<sup>th</sup> of February).
-                The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
-                If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
+
+              <p class="text-red"> 
+                We are looking for volunteers to organize the next reliability challenge. If you are interested to lead or participate in the organization,
+                have suggestions on how to improve and extend the challenge, and/or would like to donate reliability problems, please contact us.
               </p>
+              
+
+# #-------------------------------
+# # Registration Section
+
+# registration-title: Register for the workshop!
+# registration-section: <p class="font-secondary-bold mb-0 text-dark">
+#                 Registration and participation are free! 
+#               </p>
+#               <p class="text-dark"> 
+#                 Click on the Register button below to register for the second day of the workshop (25<sup>th</sup> of February).
+#                 The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+#                 If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
+#               </p>
+
+#               <p class="text-dark"> 
+#                 We plan to make it possible to follow and join the workshop online as well (details will be published here later). If you would like to use this option please drop us an email so we will know how many participants to expect.
+#               </p>
+
+#               <div class="col-lg-6 col-10 mx-auto">
+#                 <a href="registration.html" class="btn btn-primary w-100" role="button">Register</a>
+#               </div>
+
+# registration-page: <p class="font-secondary-bold mb-0 text-dark">
+#                 Registration and participation are free! 
+#               </p>
+#               <p class="text-dark"> 
+#                 Use the form below to register for the second day of the workshop (25<sup>th</sup> of February).
+#                 The first day (24<sup>th</sup> of February) is reserved for participants and contributors of the <a href="https://rprepo.readthedocs.io/en/latest/" target="_blank" class="btn-transparent">Black-box Reliability Challenge 2019</a>.
+#                 If you participated and/or contributed to the challenge, but haven't received an invitation then please contact us.
+#               </p>
 #-------------------------------
 # Location Section
 
-location-title: How to get there?
+# location-title: How to get there?
 
-location: <p class="font-secondary-bold text-dark">
-            Location</span>
-          </p>
-          <p class="text-dark">
-            The workshop will be held in the <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">TNO building at Stieltjesweg 1, 2628 CK Delft</a> that is on the TU Delft Campus.
-          </p>
-          <p class="font-secondary-bold text-dark">
-            By car</span>
-          </p>
-          <p class="text-dark">
-            The TU Delft Campus is easily accessible by car via the A13, exit Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" target="_blank" class="btn-transparent">Google Maps</a>.
-            Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" target="_blank" class="btn-transparent">this map</a>.
-          </p>
-          <p class="font-secondary-bold text-dark">
-            By public transport</span>
-          </p>
-          <p class="text-dark">
-            If you come by public transport it is recommended to travel by train to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take a bus in the direction of the TU Delft Campus.
-          </p>
-          <ul type="i" class="text-dark">
-            <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From there it is a five-minute walk to the location of the workshop.</li>
-          </ul>
-          <br>
-          <p class="text-dark">
-            Plan your trip with a <a href="https://9292.nl/en" target="_blank" class="btn-transparent">traveling assistant</a>.
-          </p>
+# location: <p class="font-secondary-bold text-dark">
+#             Location</span>
+#           </p>
+#           <p class="text-dark">
+#             The workshop will be held in the <a href="https://www.tno.nl/nl/over-tno/locaties/locatie-delft-stieltjesweg/lid2319/" target="_blank" class="btn-transparent">TNO building at Stieltjesweg 1, 2628 CK Delft</a> that is on the TU Delft Campus.
+#           </p>
+#           <p class="font-secondary-bold text-dark">
+#             By car</span>
+#           </p>
+#           <p class="text-dark">
+#             The TU Delft Campus is easily accessible by car via the A13, exit Delft/Pijnacker and exit Delft Zuid/TU-wijk. Plan your route with <a href="https://goo.gl/maps/cxzx1UfFp4rLrUQ28" target="_blank" class="btn-transparent">Google Maps</a>.
+#             Parking areas are indicated on <a href="https://ca6b8504-f5c2-446f-b994-896c28e435ea.filesusr.com/ugd/a545af_60c24aeef18d4aebaa5c8a2830484110.pdf" target="_blank" class="btn-transparent">this map</a>.
+#           </p>
+#           <p class="font-secondary-bold text-dark">
+#             By public transport</span>
+#           </p>
+#           <p class="text-dark">
+#             If you come by public transport it is recommended to travel by train to Delft Central Station. There is a direct train connection between Schiphol airport and Delft. Afterwards take a bus in the direction of the TU Delft Campus.
+#           </p>
+#           <ul type="i" class="text-dark">
+#             <li>Bus 40, 69, 174, get off at station ‘Sport & Cultuur’. From there it is a five-minute walk to the location of the workshop.</li>
+#           </ul>
+#           <br>
+#           <p class="text-dark">
+#             Plan your trip with a <a href="https://9292.nl/en" target="_blank" class="btn-transparent">traveling assistant</a>.
+#           </p>
 
 #-------------------------------
 # Agenda Section
